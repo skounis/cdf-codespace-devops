@@ -1,4 +1,6 @@
 # cdf-codespace-devops
+[![Python CI Steps Github Actions](https://github.com/skounis/cdf-codespace-devops/actions/workflows/main.yml/badge.svg)](https://github.com/skounis/cdf-codespace-devops/actions/workflows/main.yml)
+
 Python for DevOps Codespace repo
 
 ## Create Virtual Environment
