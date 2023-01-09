@@ -1,2 +1,2 @@
-def hi():
+def Hi():
     return "hi"
