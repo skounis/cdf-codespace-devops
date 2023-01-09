@@ -27,3 +27,18 @@ Example
 ./hello.py --path . --ftype py
 ./hello.py --path . --ftype txt
 ```
+
+## Container
+See:
+* https://github.com/noahgift/container-from-scratch-python
+
+Run a CLI commant in a remote container (already published)
+```bash
+docker run -it noahgift/cloudapp python app.py --name "Big John"
+```
+
+Run the local CLI
+```bash
+python app.py --name John
+```
+
