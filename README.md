@@ -42,3 +42,8 @@ Run the local CLI
 python app.py --name John
 ```
 
+### Deploy the container
+Search for the Actions 
+* Publish Docker Container
+* Build and Deploy to GKE
+* Deploy to Amazon ECS
