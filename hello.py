@@ -3,7 +3,7 @@ import glob
 import click
 
 # this is bad code intentionally
-varbad=
+# varbad=
 
 
 @click.command()
